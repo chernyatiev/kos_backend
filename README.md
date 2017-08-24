@@ -1,6 +1,6 @@
 # kos_backend
 
-A Clojure library designed to ... well, that part is up to you.
+Samples of code for Kostroma Backend meetup
 
 ## Usage
 
